@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Innovatory-titan
+- 👋 Hi, I’m @Tech Titan
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking to collaborate with coders.
